@@ -8,5 +8,6 @@ namespace ProyectoCarpinteria.Entidades
 {
     internal class Producto
     {
+        // supongo que son cambios hechos desde otra computadora
     }
 }
