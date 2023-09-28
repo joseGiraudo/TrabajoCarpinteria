@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCarpinteria.Datos
 {
-    internal class HelperDAO
+    public class HelperDAO
     {
         // Aca usamos el patron de diseño Singleton
     }
