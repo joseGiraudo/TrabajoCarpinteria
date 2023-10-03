@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCarpinteria.Entidades
 {
-    internal class Presupuesto
+    public class Presupuesto
     {
         private int nroPresupuesto;
         private DateTime fecha;

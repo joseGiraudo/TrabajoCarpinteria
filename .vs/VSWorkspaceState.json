@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\ProyectoCarpinteria",
+    "\\ProyectoCarpinteria\\Datos",
+    "\\ProyectoCarpinteria\\Datos\\Interfaz",
+    "\\ProyectoCarpinteria\\Entidades",
     "\\ProyectoCarpinteria\\Presentacion"
   ],
-  "SelectedNode": "\\ProyectoCarpinteria\\Presentacion\\Form1.cs",
+  "SelectedNode": "\\ProyectoCarpinteria\\ProyectoCarpinteria.sln",
   "PreviewInSolutionExplorer": false
 }
