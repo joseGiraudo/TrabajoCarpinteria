@@ -21,7 +21,8 @@ namespace ProyectoCarpinteria.Datos
         {
             connection = new SqlConnection(connectionString);
         }
-        
+
+        // el ObtenerInstancia() debe ser static y la instancia tambien
         public static HelperDAO ObtenerInstancia()
         {
             if(instance == null)
